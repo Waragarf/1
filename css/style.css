@@ -39,15 +39,31 @@ line-height: 36px;
 font-family: 'PT Serif', serif;
 color: #1b1b1b;
 background-color: #ffc222;
-padding: 5px 20px 4px 50px;
-font-size: 16px;
+padding: 5px 20px 4px 25px;
+
 }
+.header_btn1{
+    float: right;
+    line-height: 36px;
+  
+    color: #1b1b1b;
+   
+    padding: 10px 25px 6px 30px;
+    
+    }
 .header_btn:after{
 content: "";
 clear: both;
 display: block;
  
 
+}
+.header_glav{
+    font-size: 40px;
+    color: #cbcacb;
+    letter-spacing: 0,25px;
+    line-height: 100px;
+    padding-left: 100px;
 }
 .header_phone{
 padding-left: 20px;
@@ -70,4 +86,7 @@ padding-left: 24px;
 display: inline-block;
 
 
+}
+.header_logo{
+   
 }
